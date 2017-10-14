@@ -9,14 +9,15 @@ There are a number of decisions to take when designing your own custom 60% Keybo
 
 ## Design Steps
 - [Select Keyboard Layout](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/KeyboardLayout.md)
-- Select keycaps
-- Select switches
-- Select Mount Type: PCB or Plate
-- Select Case
-- Decide on backlight
+- [Select keycaps](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Keycaps.md)
+- [Select switches](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Switches.md)
+- Select [Mount Type](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Mounting.md): PCB or Plate
+- [Select Case](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Cases.md)
+- Decide on backlight and leds
 
 ## Ordering
 
+## Testing Board
 
 Default 2u left shift is http://www.keyboard-layout-editor.com/#/gists/f249c49347e68c8b383a9ca16abd6623
 Default 2.25u left shift is http://www.keyboard-layout-editor.com/#/gists/faf77c99388f0c5fbb26
