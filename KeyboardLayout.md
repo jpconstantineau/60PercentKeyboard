@@ -78,3 +78,21 @@ A few good layouts:
 
 [My Layout](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
 
+# Data from Decisions:
+- Tab: 1.5
+- Caps: 1.75
+- Left Shift Size: 2
+- Space Bar Size: 6.25
+- Enter Bar Size 2.25
+- Backspace: 1.5
+- LCtl: 1.25
+- LWin: 1.25
+- LAlt: 1.25
+- |\: 1
+- everything else: 1
+
+## Parts needed
+Plate design: 2
+Stabilizer 2u: 2
+Stabilizer 6.25u: 1
+Stabilizer 7u: 0
