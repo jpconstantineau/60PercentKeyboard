@@ -68,3 +68,13 @@ Since I am in America, the ANSI layout is my starting point.  Next, we need to f
 - calculator
 - notepad
 - screenshot tool
+
+
+A few good layouts:
+[2](http://www.keyboard-layout-editor.com/#/gists/f249c49347e68c8b383a9ca16abd6623)
+[1.75](http://www.keyboard-layout-editor.com/#/gists/faf77c99388f0c5fbb26)
+[alternate](http://www.keyboard-layout-editor.com/#/gists/d85a8529919745e3ad7ab650f8b8d69b)
+[Alternate2](http://www.keyboard-layout-editor.com/#/gists/a97fc23fe46d68d991f6a3db404d22c4)
+
+[My Layout](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
+
