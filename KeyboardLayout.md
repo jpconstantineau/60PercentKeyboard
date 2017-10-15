@@ -76,9 +76,9 @@ A few good layouts:
 [alternate](http://www.keyboard-layout-editor.com/#/gists/d85a8529919745e3ad7ab650f8b8d69b)
 [Alternate2](http://www.keyboard-layout-editor.com/#/gists/a97fc23fe46d68d991f6a3db404d22c4)
 
+# Layout Option 1:
 [My Layout](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
 
-# Data from Decisions:
 - Tab: 1.5
 - Caps: 1.75
 - Left Shift Size: 2
@@ -94,5 +94,25 @@ A few good layouts:
 ## Parts needed
 Plate design: 2
 Stabilizer 2u: 2
+Stabilizer 6.25u: 1
+Stabilizer 7u: 0
+
+# Layout Option 2:
+[My Layout #2](http://www.keyboard-layout-editor.com/#/gists/b818d194b7e19ebad063761c45dd0a42)
+- Tab: 1.5
+- Caps: 1.75
+- Left Shift Size: 2
+- Space Bar Size: 6.25
+- Enter Bar Size 2.25
+- Backspace: 2
+- LCtl: 1.25
+- LWin: 1.25
+- LAlt: 1.25
+- |\: 1.5
+- everything else: 1
+
+## Parts needed
+Plate design: 2
+Stabilizer 2u: 3
 Stabilizer 6.25u: 1
 Stabilizer 7u: 0
