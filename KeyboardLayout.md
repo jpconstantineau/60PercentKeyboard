@@ -116,3 +116,6 @@ Plate design: 2
 Stabilizer 2u: 3
 Stabilizer 6.25u: 1
 Stabilizer 7u: 0
+
+# Left 2.25
+[layout](http://www.keyboard-layout-editor.com/#/gists/b7be911290b2afcf31b0a0f1d33c9ebb)
