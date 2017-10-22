@@ -3,7 +3,7 @@ Designing a Custom 60% Keyboard
 
 
 Focus of this project is to documents the steps and decisions taken while designing my own 60% keyboard.
-It will be based on the XD60/XD64 PCB available on [Aliexpress](https://www.aliexpress.com/item/xd60-xd64-Custom-Mechanical-Keyboard-Kit-up-tp-64-keys-Supports-TKG-TOOLS-Underglow-RGB-PCB/32814945677.html?spm=a2g0s.13010208.99999999.265.hD2Zy9).
+It will be based on the XD60/XD64 PCB available on [Aliexpress](https://www.aliexpress.com/item/xd60-xd64-Custom-Mechanical-Keyboard-Kit-up-tp-64-keys-Supports-TKG-TOOLS-Underglow-RGB-PCB/32814945677.html?spm=a2g0s.13010208.99999999.265.hD2Zy9) or on [massdrop](https://www.massdrop.com/buy/xd60-xd64-custom-mechanical-keyboard-kit)
 
 There are a number of decisions to take when designing your own custom 60% Keyboard.
 
@@ -11,7 +11,7 @@ There are a number of decisions to take when designing your own custom 60% Keybo
 - [Select Keyboard Layout](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/KeyboardLayout.md)
 - [Select keycaps](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Keycaps.md)
 - [Select switches](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Switches.md)
-- Select [Mount Type](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Mounting.md): PCB or Plate
+- [Select Mount Type](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Switches.md): PCB or Plate
 - [Select Case](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Cases.md)
 - Decide on backlight and leds
 
