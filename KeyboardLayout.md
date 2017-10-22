@@ -12,7 +12,7 @@ Since I am in America, the ANSI layout is my starting point.  Next, we need to f
 - Observe how you "type" and use modifier keys.
 
 ## Chromebook
-- Chromebooks don't have a "shift lock" key.  I don't miss it. It's been reused to be a "search" action
+- Chromebooks don't have a "shift lock" key.  I don't miss it. It's been reused to be a "search" action. Alt-search activates "shift lock". It's there but just hidden.
 - Layout is similar to a 60% keyboard with arrow keys
 - Additional top rows configured to be "esc", media keys and power button.
 - ALT-Arrows up/down is page up/down. This works well.
@@ -27,28 +27,28 @@ Since I am in America, the ANSI layout is my starting point.  Next, we need to f
 - This is a wireless keyboard with mousepad.
 - Layout is similar to a 60% keyboard with arrow keys
 - Additional top rows configured to be "esc" media keys and "ins" and "del". A FN key change the action of this top row into a f1-f12 set of keys.  
-- FN-Arrows up/down is page up/down. This works well.
+- FN-Arrows up/down is page up/down. This works well. But sometimes, I wish I could do page up/down one handed by pressing a key with my index and navigating up/down with my other fingers.
 - FN-LEFT/RIGHT is Home/End. 
 
 ### Pros
 - Small wireless keyboard
 - Arrow keys are present
 ### Cons
-- F1-F12 are not directly activated but as a modifier of the media action keys. I have pressed numerous times the "Search" functionality when trying to press "f5" (reload on explorer). This is more disturbing than the search of the chromebook.
+- F1-F12 are not directly activated but as a modifier of the media action keys. I have pressed numerous times the "Search" functionality when trying to press "f5" (reload on explorer). This is more disturbing than the search of the chromebook. I wish it was the other way around.
 
 ## Chrome/Youtube
 - Commonly used keys: Arrows, esc, PgUp, PgDn,
 
 ## MsExcel
 - Commonly used keys: Arrows, PgUp, PgDn, End, Home, number keys, =+-*/
-- Useful keys: ~ (used to see the equations)
+- Useful keys: ~ (used to see the equations) rarely used though.
 - Lots of mouse actions
 
 ## MsWord
 - Commonly used keys: Arrows, PgUp, PgDn, F9, ALT-F9
 
 ## MsPowerpoint
-- Commonly used keys: Arrows, PgUp, PgDn, F9, ALT-F9. 
+- Commonly used keys: Arrows, PgUp, PgDn 
 - Lots of mouse actions
 
 ## MsOutlook
