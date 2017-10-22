@@ -1,4 +1,4 @@
-# Select Keyboard Layout
+# How to select a keyboard layout
 
 - Decide on default layout: [ISO](http://www.keyboard-layout-editor.com/##@@=%C2%AC%0A%60&=!%0A1&=%22%0A2&=%C2%A3%0A3&=$%0A4&=%25%0A5&=%5E%0A6&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_w:2%3B&=Backspace%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_x:0.25&w:1.25&h:2&w2:1.5&h2:1&x2:-0.25%3B&=Enter%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%2F@%0A'&=~%0A%23%3B&@_w:1.25%3B&=Shift&=%7C%0A%5C&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=AltGr&_w:1.25%3B&=Win&_w:1.25%3B&=Menu&_w:1.25%3B&=Ctrl) or [ANSI](http://www.keyboard-layout-editor.com/##@@=~%0A%60&=!%0A1&=%2F@%0A2&=%23%0A3&=$%0A4&=%25%0A5&=%5E%0A6&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_w:2%3B&=Backspace%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_w:2.25%3B&=Enter%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=Alt&_w:1.25%3B&=Win&_w:1.25%3B&=Menu&_w:1.25%3B&=Ctrl) layouts.
 
@@ -12,7 +12,7 @@ Here are the steps I went through:
 - Do you use toggable keys (shift lock, scroll lock, num lock)?
 - Identify the potential keyboard sizes that would work for you; Alternately, which one you would prefer.
 
-# Computers & Applications
+# Review existing Computers & Applications
 
 ## Chromebook
 - Chromebooks don't have a "shift lock" key.  I don't miss it. It's been reused to be a "search" action. Alt-search activates "shift lock". It's there but just hidden.
@@ -72,7 +72,7 @@ Here are the steps I went through:
 - notepad
 - screenshot tool
 
-# Keyboard Sizes
+# Pick a Keyboard Size:
 ## 30% Keyboards
 [Gherkin](http://www.keyboard-layout-editor.com/#/gists/8f922931ae43fa0117b6baaf4435a33a): 30 keys ortholinear [info](http://www.40percent.club/2016/11/gherkin.html) [where to get parts](https://www.reddit.com/r/MechanicalKeyboards/comments/63o5u6/parts_to_complete_your_gherkin_and_some_places_to/)
 The Gherkin is a very small keyboard.  Extremely portable but lots of missing keys. These may be available on the different layers, however, I feel that it's too much of a compromise.  Also, sourcing it is a bit more difficult. There are no chinese sources for the pcb.
@@ -120,6 +120,9 @@ TKL keyboards are shrunk down versions of the full 104 keys keyboards where the 
 ## Full 104 Keyboards
 [Standard 104 Keys](http://www.keyboard-layout-editor.com/#/gists/aba2882b21cf6660437c1366ddd1e59f)
 These are the standard "desktop" kepboards that come with pretty much every desktop system.  Getting replacement keycaps is generally quite easy since the keys are standard sizes.  Some keyboard manufacturers change a bit the bottom row for a wider or narrower spacebar making a replacement keyset more diffficult to find.  This is the size of keyboard I am trying to replace to get more room on my desk.
+
+# Narrow Down on a layout.
+After reviewing the above, I am leaning towards the 60% and the 40% boards.  Their programmability through layers makes them very small and portable all while still making the arrow keys available. 
 
 A few good layouts:
 [2](http://www.keyboard-layout-editor.com/#/gists/f249c49347e68c8b383a9ca16abd6623)
