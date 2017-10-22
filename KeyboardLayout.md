@@ -82,6 +82,8 @@ The Gherkin is a very small keyboard.  Extremely portable but lots of missing ke
 
 [JD40](http://www.keyboard-layout-editor.com/#/gists/f24a1a8ebb924650b10be593fdad8207): 40 keys staggered - single wide spacebar
 
+The JD40 is available [here](https://1upkeyboards.com/products/keyboard-kits/diy-jd40-kits.html)
+
 [Daisy 40](http://www.keyboard-layout-editor.com/#/gists/0e343fb80ee3df4613f80dc25bd56ea2): 42 keys staggered - split wide spacebar
 
 The Daisy 40 is a board available from [KPRepublic](https://kprepublic.aliexpress.com/store/3034003) on Aliexpress or Taobao.
