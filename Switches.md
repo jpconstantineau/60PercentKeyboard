@@ -34,8 +34,11 @@ For Plate mounts, you need 3 pins.  You can make a 3 pin switch by cutting the p
 
 In a nutshell, if you are not sure, get 5 pins and clip them as needed.
 
-# Decisions
+# Switch Decisions
 - Gateron Brown Switches, 5 pins as my first choice
 - Gateron Black Switches, 5 pins as my second choice
 
- 
+# Mounting: Plate or PCB?
+Most keyboards swithes are Plate Mounted. Few don't uses any plate and mount directly on the PCB.  If you use a case, quite often this will dictate whether you can PCB mount or not since some cases use the top cover as the plate.
+
+Decision: In most cases, I will plate mount my switches.
