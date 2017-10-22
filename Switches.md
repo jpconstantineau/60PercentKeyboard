@@ -1,6 +1,7 @@
-# Which Switches for my custom keyboard
+# Which Switches for my custom keyboard?
 
 ## Cherry MX Switches
+See [here](http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/) for a good overview.
 
 ## Gateron Switches
 These are Cherry compatible switches but a bit cheaper than their original counterparts.
@@ -32,3 +33,9 @@ For PCB mounts (no plate), you need 5 pins.  Some of the pins are plastic and di
 For Plate mounts, you need 3 pins.  You can make a 3 pin switch by cutting the plastic legs of the 5 pin switches.  For plate mounts, it is sometimes recommended to use 5 pins for those larger holes where stabilizers are installed. 
 
 In a nutshell, if you are not sure, get 5 pins and clip them as needed.
+
+# Decisions
+- Gateron Brown Switches, 5 pins as my first choice
+- Gateron Black Switches, 5 pins as my second choice
+
+ 
