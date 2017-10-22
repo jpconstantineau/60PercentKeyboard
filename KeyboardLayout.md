@@ -83,24 +83,28 @@ The Gherkin is a very small keyboard.  Extremely portable but lots of missing ke
 [JD40](http://www.keyboard-layout-editor.com/#/gists/f24a1a8ebb924650b10be593fdad8207): 40 keys staggered - single wide spacebar
 
 [Daisy 40](http://www.keyboard-layout-editor.com/#/gists/0e343fb80ee3df4613f80dc25bd56ea2): 42 keys staggered - split wide spacebar
+
 The Daisy 40 is a board available from [KPRepublic](https://kprepublic.aliexpress.com/store/3034003) on Aliexpress or Taobao.
-This boards supports the JD40 single wide spacebar layout.  There are two set of printed keycaps available [Grey](https://www.aliexpress.com/item/NPKC-40-Thick-PBT-Gray-Black-Mixed-Cherry-Profile-Keycap-Keyset-For-40-AMJ40-YMD40-Mini/32825976887.html) and
+This boards supports the JD40 single wide spacebar layout.  There are two set of printed keycaps available [Grey](https://www.aliexpress.com/item/NPKC-40-Thick-PBT-Gray-Black-Mixed-Cherry-Profile-Keycap-Keyset-For-40-AMJ40-YMD40-Mini/32825976887.html) and 
 [Black](https://www.aliexpress.com/item/NPKC-40-Customized-Thick-PBT-Cherry-Profile-Keycap-Keyset-For-40-AMJ40-Mini-Cute-Mechanical-Keyboard/32807123268.html) and a [blank](https://www.aliexpress.com/item/XDA-blank-keycaps-daisy-40-40-Keyset-Blank-Similar-to-DSA-For-MX-Mechanical-Keyboard-Ergo/32835463592.html) set. The two printed sets have arrows and split spacebars.
 
 [Planck/JJ40](http://www.keyboard-layout-editor.com/#/gists/22d41797b393f49b84bc02b6eafc95da): 47/48 keys ortholinear
-The JJ40 is a board available from [KPRepublic](https://kprepublic.aliexpress.com/store/3034003) on Aliexpress or Taobao which can be used to build a Planck-type keyboard.  Getting [blank keycaps] (https://www.aliexpress.com/item/XDA-blank-keycaps-planck-ace40-xt-Keyset-Blank-Similar-to-DSA-For-MX-Mechanical-Keyboard-Ergo/32824353605.html) is easy but getting a printed set is more limited. A partial set is [available](https://www.aliexpress.com/item/top-printed-dsa-keycap-26-keys-dsa-profile-for-cherry-mx-mechanical/32834422565.html).
 
+The JJ40 is a board available from [KPRepublic](https://kprepublic.aliexpress.com/store/3034003) on Aliexpress or Taobao which can be used to build a Planck-type keyboard.  Getting [blank keycaps](https://www.aliexpress.com/item/XDA-blank-keycaps-planck-ace40-xt-Keyset-Blank-Similar-to-DSA-For-MX-Mechanical-Keyboard-Ergo/32824353605.html) is easy but getting a printed set is more limited. A partial set is [available](https://www.aliexpress.com/item/top-printed-dsa-keycap-26-keys-dsa-profile-for-cherry-mx-mechanical/32834422565.html).
 
 ## 60% Keyboards
 60% keyboards let go of the f-keys and have enough modifiers to make sense for most people. Some even have the arrow keys at the cost of smaller or removed modifiers.   
 
 [GH60 Standard](http://www.keyboard-layout-editor.com/#/gists/8e91b02e29361964fd8ce72464f5b749): 61 keys staggered [info](http://blog.komar.be/projects/gh60-programmable-keyboard/) 
-THe GH60 is a standard 60% keyboard with lots of interchangeable components.  It's based on the Poker II or Pok3r boards but it's fully programmable.  There are several kits our there based on the GH60.  The GH60 supports a number of layouts.
+
+The GH60 is a standard 60% keyboard with lots of interchangeable components.  It's based on the Poker II or Pok3r boards but it's fully programmable.  There are several kits our there based on the GH60.  The GH60 supports a number of layouts.
 
 [XD64](http://www.keyboard-layout-editor.com/#/gists/faf77c99388f0c5fbb26)
+
 The XD64 is a GH60 compatible board available from [KPRepublic](https://kprepublic.aliexpress.com/store/3034003) on Aliexpress or Taobao. There are also [massdrops](https://www.massdrop.com/buy/xd60-xd64-custom-mechanical-keyboard-kit) of this keyboard if you prefer to deal with a US based company.  The XD64 supports a large number of layouts. To do so, it has 2 different plate designs: 2u and 2.25u left shifts. Getting keycap sets for the 2u layouts will be more difficult (more expensive) since standard board layouts usually use a 2.25u left shift.  Having the option between 2 and 2.25 can make ordering more error-prone (as seen on a past massdrop of this board).  
 
 [XD75](http://www.keyboard-layout-editor.com/#/gists/fab286f4d0ecc8f655645d3421244cd7)
+
 The XD75 is an ortholinear keyboard available from [KPRepublic](https://kprepublic.aliexpress.com/store/3034003) on Aliexpress or Taobao. There are enough keys to fit a num keypad and all F-keys. 
 
 ## 68% Keyboards
@@ -108,6 +112,7 @@ The XD75 is an ortholinear keyboard available from [KPRepublic](https://kprepubl
 
 ## TKL Keyboards
 [TLK/87 Keys](http://www.keyboard-layout-editor.com/#/gists/1bdd2184b15cfed700133f1aeba23f1c)
+
 TKL keyboards are shrunk down versions of the full 104 keys keyboards where the num keypad is removed. There are lots of commercially available keyboards of that size.
 
 ## Full 104 Keyboards
@@ -165,5 +170,5 @@ Stabilizer 7u: 0
 [layout](http://www.keyboard-layout-editor.com/#/gists/b7be911290b2afcf31b0a0f1d33c9ebb)
 
 
-##Tools & links
-[keyboardtester](keyboardtester.com)
+## Tools & links
+[keyboardtester](http://keyboardtester.com)
