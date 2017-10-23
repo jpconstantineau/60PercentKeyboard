@@ -138,7 +138,6 @@ Layouts Options:
 - [60% LShift 2 Rshift 1 with Arrows](http://www.keyboard-layout-editor.com/#/gists/b818d194b7e19ebad063761c45dd0a42)
 - [60% LShift 2 Rshift 1 with Arrows. Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
 
-
 - [60% LShift 2.25 Rshift 1.75 with Arrows](http://www.keyboard-layout-editor.com/#/gists/4b3f2b36d9e538770616dbe46a442c1f)
 - [60% LShift 2.25 Rshift None 1.75 key with Arrows Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/c6a96b006aba5b79a0616758c32745a1)
 
@@ -154,6 +153,11 @@ These [Black PBT keycaps](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002
 - [60% LShift 2.25 RShift 1.75 Arrows  PBT Normal Backspace](http://www.keyboard-layout-editor.com/#/gists/b016f3dbf708c681da5f9d29ef53c48f)
 - [60% LShift 2.25 RShift 1.75 Arrows  PBT Small Backspace](http://www.keyboard-layout-editor.com/#/gists/f5439753a3c74948142ce0c7127347ba)
 - [60% LShift 2.25 RShift 1.75 No arrows PBT Normal Backspace](http://www.keyboard-layout-editor.com/#/gists/ce196cbd1470b2670c2f155bdd4e0a57)
+
+These [Black PBT keycaps](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-14986162243.34.47ca56d9c7aWWc&id=535872635292) with  an add-on 2u LShift support the following profiles:
+- A
+- B
+
 
 These [40% PBT Cherry Profile Keycaps](https://www.aliexpress.com/item/NPKC-40-Thick-PBT-Gray-Black-Mixed-Cherry-Profile-Keycap-Keyset-For-40-AMJ40-YMD40-Mini/32825976887.html) support this profile:
 [Colorful PBT Split with arrows](http://www.keyboard-layout-editor.com/#/gists/0e343fb80ee3df4613f80dc25bd56ea2)
