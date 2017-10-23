@@ -134,19 +134,21 @@ Key Options
 104 Keycaps in **bold**
 
 Layouts Options:
-[60% LShift 2 Rshift 1 with Arrows](http://www.keyboard-layout-editor.com/#/gists/b818d194b7e19ebad063761c45dd0a42)
-[60% LShift 2 Rshift 1 with Arrows. Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
+
+- [60% LShift 2 Rshift 1 with Arrows](http://www.keyboard-layout-editor.com/#/gists/b818d194b7e19ebad063761c45dd0a42)
+- [60% LShift 2 Rshift 1 with Arrows. Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
 
 
-[60% LShift 2.25 Rshift 1.75 with Arrows](http://www.keyboard-layout-editor.com/#/gists/4b3f2b36d9e538770616dbe46a442c1f)
-[60% LShift 2.25 Rshift None 1.75 key with Arrows Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/c6a96b006aba5b79a0616758c32745a1)
+- [60% LShift 2.25 Rshift 1.75 with Arrows](http://www.keyboard-layout-editor.com/#/gists/4b3f2b36d9e538770616dbe46a442c1f)
+- [60% LShift 2.25 Rshift None 1.75 key with Arrows Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/c6a96b006aba5b79a0616758c32745a1)
 
 These [ABS keycaps](https://www.aliexpress.com/item/ABS-Backlit-gh60-XD60-XD64-Keycap-Set-Top-print-OEM-profile-for-gh60-poker-poker2/32815373956.html) support the following layouts:
-[60% LShift 2.25 RShift 1.75 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/b7be911290b2afcf31b0a0f1d33c9ebb)
-[60% LShift 2 RiShift 1 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/0b08f34ce19e26e489df09bca82d8082)
 
-These [Colorful PBT keycaps](https://www.aliexpress.com/item/Customized-Mechanical-Keyboard-Keycap-61-ANSI-Keyset-OEM-Profile-Thick-PBT-Keycap-Set-For-Cherry-MX/32832860826.html) support only this layout:
+- [60% LShift 2.25 RShift 1.75 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/b7be911290b2afcf31b0a0f1d33c9ebb)
+- [60% LShift 2 RiShift 1 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/0b08f34ce19e26e489df09bca82d8082)
 
+These [Colorful PBT keycaps](https://www.aliexpress.com/item/Customized-Mechanical-Keyboard-Keycap-61-ANSI-Keyset-OEM-Profile-Thick-PBT-Keycap-Set-For-Cherry-MX/32832860826.html) support only this layout (core of 104 keys):
+- [60% RShift 2.25 LShift 2.75 No arrows Colorful PBT](http://www.keyboard-layout-editor.com/#/gists/06d9ef3aae19e8be231c24b309079708)
 
 ## Tools & links
 [keyboardtester](http://keyboardtester.com)
