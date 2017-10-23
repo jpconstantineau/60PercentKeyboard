@@ -153,7 +153,13 @@ These [Colorful PBT keycaps](https://www.aliexpress.com/item/Customized-Mechanic
 These [Black PBT keycaps](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-14986162243.34.47ca56d9c7aWWc&id=535872635292) support the following profiles:
 - [60% LShift 2.25 RShift 1.75 Arrows  PBT Normal Backspace](http://www.keyboard-layout-editor.com/#/gists/b016f3dbf708c681da5f9d29ef53c48f)
 - [60% LShift 2.25 RShift 1.75 Arrows  PBT Small Backspace](http://www.keyboard-layout-editor.com/#/gists/f5439753a3c74948142ce0c7127347ba)
-- [60% RShift 2.25 LShift 1.75 No arrows PBT Normal Backspace](http://www.keyboard-layout-editor.com/#/gists/ce196cbd1470b2670c2f155bdd4e0a57)
+- [60% LShift 2.25 RShift 1.75 No arrows PBT Normal Backspace](http://www.keyboard-layout-editor.com/#/gists/ce196cbd1470b2670c2f155bdd4e0a57)
+
+These [40% PBT Cherry Profile Keycaps](https://www.aliexpress.com/item/NPKC-40-Thick-PBT-Gray-Black-Mixed-Cherry-Profile-Keycap-Keyset-For-40-AMJ40-YMD40-Mini/32825976887.html) support this profile:
+[Colorful PBT Split with arrows](http://www.keyboard-layout-editor.com/#/gists/0e343fb80ee3df4613f80dc25bd56ea2)
+
+These [40% DSA keycaps](https://www.aliexpress.com/item/top-printed-dsa-keycap-26-keys-dsa-profile-for-cherry-mx-mechanical/32834422565.html) support this profile:
+[Planck Keymap](http://www.keyboard-layout-editor.com/#/gists/22d41797b393f49b84bc02b6eafc95da)
 
 ## Tools & links
 [keyboardtester](http://keyboardtester.com)
