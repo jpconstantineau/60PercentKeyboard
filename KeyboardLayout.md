@@ -124,55 +124,28 @@ These are the standard "desktop" kepboards that come with pretty much every desk
 # Narrow Down on a layout.
 After reviewing the above, I am leaning towards the 60% and the 40% boards.  Their programmability through layers makes them very small and portable all while still making the arrow keys available. 
 
-A few good layouts:
-[2](http://www.keyboard-layout-editor.com/#/gists/f249c49347e68c8b383a9ca16abd6623)
-[1.75](http://www.keyboard-layout-editor.com/#/gists/faf77c99388f0c5fbb26)
-[alternate](http://www.keyboard-layout-editor.com/#/gists/d85a8529919745e3ad7ab650f8b8d69b)
-[Alternate2](http://www.keyboard-layout-editor.com/#/gists/a97fc23fe46d68d991f6a3db404d22c4)
+Key Options
+- RShift: 2u, **2.25u**
+- LShift: 1u, 1.75u, none, **2.75**
+- Backspace: **2u**
+- \|: **1.5u**
+- /?: **1u**, none
 
-# Layout Option 1:
-[My Layout](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
+104 Keycaps in **bold**
 
-- Tab: 1.5
-- Caps: 1.75
-- Left Shift Size: 2
-- Space Bar Size: 6.25
-- Enter Bar Size 2.25
-- Backspace: 1.5
-- LCtl: 1.25
-- LWin: 1.25
-- LAlt: 1.25
-- |\: 1
-- everything else: 1
+Layouts Options:
+[60% LShift 2 Rshift 1 with Arrows](http://www.keyboard-layout-editor.com/#/gists/b818d194b7e19ebad063761c45dd0a42)
+[60% LShift 2 Rshift 1 with Arrows. Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/f018e71bd5fd96d686df25d39aebf73c)
 
-## Parts needed
-Plate design: 2
-Stabilizer 2u: 2
-Stabilizer 6.25u: 1
-Stabilizer 7u: 0
 
-# Layout Option 2:
-[My Layout #2](http://www.keyboard-layout-editor.com/#/gists/b818d194b7e19ebad063761c45dd0a42)
-- Tab: 1.5
-- Caps: 1.75
-- Left Shift Size: 2
-- Space Bar Size: 6.25
-- Enter Bar Size 2.25
-- Backspace: 2
-- LCtl: 1.25
-- LWin: 1.25
-- LAlt: 1.25
-- |\: 1.5
-- everything else: 1
+[60% LShift 2.25 Rshift 1.75 with Arrows](http://www.keyboard-layout-editor.com/#/gists/4b3f2b36d9e538770616dbe46a442c1f)
+[60% LShift 2.25 Rshift None 1.75 key with Arrows Backspace R3 1.5u](http://www.keyboard-layout-editor.com/#/gists/c6a96b006aba5b79a0616758c32745a1)
 
-## Parts needed
-Plate design: 2
-Stabilizer 2u: 3
-Stabilizer 6.25u: 1
-Stabilizer 7u: 0
+These [ABS keycaps](https://www.aliexpress.com/item/ABS-Backlit-gh60-XD60-XD64-Keycap-Set-Top-print-OEM-profile-for-gh60-poker-poker2/32815373956.html) support the following layouts:
+[60% LShift 2.25 RShift 1.75 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/b7be911290b2afcf31b0a0f1d33c9ebb)
+[60% LShift 2 RiShift 1 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/0b08f34ce19e26e489df09bca82d8082)
 
-# Left 2.25
-[layout](http://www.keyboard-layout-editor.com/#/gists/b7be911290b2afcf31b0a0f1d33c9ebb)
+These [Colorful PBT keycaps](https://www.aliexpress.com/item/Customized-Mechanical-Keyboard-Keycap-61-ANSI-Keyset-OEM-Profile-Thick-PBT-Keycap-Set-For-Cherry-MX/32832860826.html) support only this layout:
 
 
 ## Tools & links
