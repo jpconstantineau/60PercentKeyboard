@@ -145,10 +145,15 @@ Layouts Options:
 These [ABS keycaps](https://www.aliexpress.com/item/ABS-Backlit-gh60-XD60-XD64-Keycap-Set-Top-print-OEM-profile-for-gh60-poker-poker2/32815373956.html) support the following layouts:
 
 - [60% LShift 2.25 RShift 1.75 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/b7be911290b2afcf31b0a0f1d33c9ebb)
-- [60% LShift 2 RiShift 1 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/0b08f34ce19e26e489df09bca82d8082)
+- [60% LShift 2 RShift 1 with Arrows - ABS Caps](http://www.keyboard-layout-editor.com/#/gists/0b08f34ce19e26e489df09bca82d8082)
 
 These [Colorful PBT keycaps](https://www.aliexpress.com/item/Customized-Mechanical-Keyboard-Keycap-61-ANSI-Keyset-OEM-Profile-Thick-PBT-Keycap-Set-For-Cherry-MX/32832860826.html) support only this layout (core of 104 keys):
-- [60% RShift 2.25 LShift 2.75 No arrows Colorful PBT](http://www.keyboard-layout-editor.com/#/gists/06d9ef3aae19e8be231c24b309079708)
+- [60% LShift 2.25 RShift 2.75 No arrows Colorful PBT](http://www.keyboard-layout-editor.com/#/gists/06d9ef3aae19e8be231c24b309079708)
+
+These [Black PBT keycaps](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-14986162243.34.47ca56d9c7aWWc&id=535872635292) support the followinf profiles:
+- [60% LShift 2.25 RShift 1.75 Arrows  PBT Normal Backspace](http://www.keyboard-layout-editor.com/#/gists/b016f3dbf708c681da5f9d29ef53c48f)
+- [60% LShift 2.25 RShift 1.75 Arrows  PBT Small Backspace](http://www.keyboard-layout-editor.com/#/gists/f5439753a3c74948142ce0c7127347ba)
+
 
 ## Tools & links
 [keyboardtester](http://keyboardtester.com)
