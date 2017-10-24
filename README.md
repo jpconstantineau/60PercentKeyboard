@@ -62,6 +62,8 @@ QMK allows enough programmability to allow to change how it behaves.  For exampl
 
 QMK is **not** for the noob. 
 
+[Guide](https://imgur.com/a/IcT03) how to flash the xd60.
+
 ## Testing Board
 
 Default 2u left shift is http://www.keyboard-layout-editor.com/#/gists/f249c49347e68c8b383a9ca16abd6623
