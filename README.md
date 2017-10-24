@@ -34,6 +34,8 @@ If your board is on the supported list, (or can find a python config file for it
 - [Windows Tutorial](https://github.com/dhowland/EasyAVR#windows-user-tutorial)
 - [Youtuve how to use video](https://www.youtube.com/watch?v=utjdtSzWz6g)
 
+[Here](https://imgur.com/a/aj3iF) is a good write-up of someone who used EasyAVR as part of their GH60 build.
+
 ## TMK Keymap generator
 This is the app that some vendors recommend for their boards. You need to install a chrome add-in. Sounds simple enough. 
 
@@ -46,7 +48,8 @@ Vendor instructions for the XD60:
 - Choose "Simple" in layer mode, paste the URL of your layout from KLE.
 - Click on the "Burn .eep file" dropdown and choose "RawHID", and then click on the actual Burn.eep file".
 
-Sounds easy.
+Sounds easy. [Here](https://imgur.com/a/WfmHW) is a good write-up of someone who used TKG as part of their GH60 build. [Second one](https://dionmunk.com/posts/2017/05/10/gh60-satan.html)
+
 
 ## TMK
 [TMK](https://github.com/tmk/tmk_keyboard) is the original firmware.  QMK supports a much longer list of keyboards.
@@ -56,6 +59,8 @@ If you are a programmer and want full customizability, QMK is it.  You will need
 QMK probably has the longest list of supported boards all within their [repository (https://github.com/qmk/qmk_firmware/tree/master/keyboards). 
 
 QMK allows enough programmability to allow to change how it behaves.  For example, [here](https://www.youtube.com/watch?v=I8MjRQazfJc) is a video on how you can modify the code to enable LED backlights to indicate what layers you are in and to show the status of caps lock, num lock and scroll lock.  This is the kind of functionality that makes LEDs useful for something as opposed just to look pretty and be distracting.
+
+QMK is **not** for the noob. 
 
 ## Testing Board
 
