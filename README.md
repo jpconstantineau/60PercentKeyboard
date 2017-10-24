@@ -56,7 +56,7 @@ Sounds easy. [Here](https://imgur.com/a/WfmHW) is a good write-up of someone who
 
 ## QMK
 If you are a programmer and want full customizability, QMK is it.  You will need to code, compile, build and flash your keyboard.
-QMK probably has the longest list of supported boards all within their [repository (https://github.com/qmk/qmk_firmware/tree/master/keyboards). 
+QMK probably has the longest list of supported boards all within their [repository](http://qmk.fm/keyboards/).  Note that the hex files ready to be uploaded to the AVR are already on the site.  As such, you don't need to compile the firmware if you just need the defaults. 
 
 QMK allows enough programmability to allow to change how it behaves.  For example, [here](https://www.youtube.com/watch?v=I8MjRQazfJc) is a video on how you can modify the code to enable LED backlights to indicate what layers you are in and to show the status of caps lock, num lock and scroll lock.  This is the kind of functionality that makes LEDs useful for something as opposed just to look pretty and be distracting.
 
