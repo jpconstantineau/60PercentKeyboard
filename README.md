@@ -60,7 +60,7 @@ QMK probably has the longest list of supported boards all within their [reposito
 
 QMK allows enough programmability to allow to change how it behaves.  For example, [here](https://www.youtube.com/watch?v=I8MjRQazfJc) is a video on how you can modify the code to enable LED backlights to indicate what layers you are in and to show the status of caps lock, num lock and scroll lock.  This is the kind of functionality that makes LEDs useful for something as opposed just to look pretty and be distracting.
 
-QMK is **not** for the noob. 
+QMK is **not** for the noob. [More Info here,,,](https://github.com/jpconstantineau/60PercentKeyboard/blob/master/Programming_QMK.md)
 
 [Guide](https://imgur.com/a/IcT03) how to flash the xd60.
 
