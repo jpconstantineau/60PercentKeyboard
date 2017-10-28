@@ -35,5 +35,14 @@ For Wiondows 10, this works:
 - $ make xd60:default
 
 
+## Flashing QMK to XD60
+For flashing the default QMK firmware for the XD60 board, run through these commands:
+
+- $ dfu-programmer atmega32u4 erase
+- $ dfu-programmer atmega32u4 flash xd60_default.hex
+- $ dfu-programmer atmega32u4 launch
+
+Prior to running these commands, you need to put the keyboard in "bootloader" mode.  Do so by pressing the reset button as you connect the keyboard.  The first command erases the flash memory. The second flashes the firmware while the last reboots the keyboard. On restart, the keyboard will connect bact to the computer as a keyboard.  The default firmware will turn on PCB backlight on.
+
 
 [Keymap FAQ](https://docs.qmk.fm/faq_keymap.html)
