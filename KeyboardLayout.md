@@ -155,7 +155,7 @@ These [Black PBT keycaps](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002
 - [60% LShift 2.25 RShift 1.75 No arrows PBT Normal Backspace](http://www.keyboard-layout-editor.com/#/gists/ce196cbd1470b2670c2f155bdd4e0a57)
 
 These [Black PBT keycaps](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-14986162243.34.47ca56d9c7aWWc&id=535872635292) with  an add-on [2u LShift](https://www.aliexpress.com/item/Blank-PBT-Keycaps-in-OEM-Profile-Cherry-MX-PBT-plastic-no-legends-1-25u-1-5u/32823581058.html) support the following profiles:
-- [60% LShift 2U](http://www.keyboard-layout-editor.com/#/gists/e1c3c7bd3b4ffb6262a02d4badd99b7c)
+- [60% LShift 2U No LShift or 1u LShift](http://www.keyboard-layout-editor.com/#/gists/e1c3c7bd3b4ffb6262a02d4badd99b7c)
 - B
 
 
