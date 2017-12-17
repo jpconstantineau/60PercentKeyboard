@@ -46,3 +46,12 @@ Prior to running these commands, you need to put the keyboard in "DFU" mode.  Do
 
 
 [Keymap FAQ](https://docs.qmk.fm/faq_keymap.html)
+
+
+## Flashing TMK to 6lit
+
+Compile the firmware by running "make" from the keyboard folder
+put pro micro in bootloader mode (press reset key)
+within 8 seconds run the following command
+
+- $ ./avrdude.exe -p atmega32u4 -P com4  -c avr109 -U flash:w:6lit.hex
