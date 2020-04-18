@@ -69,3 +69,13 @@ within 8 seconds run the following command
 - make minidox/rev1:that_canadian
 - ../avrdude/avrdude.exe -p atmega32u4 -P com6 -c avr109 -U flash:w:minidox_rev1_that_canadian.hex
 - ../avrdude/avrdude.exe -p atmega32u4 -P com6 -c avr109 -U eeprom:w:keyboards/minidox/eeprom-lefthand.eep
+
+## Latest...
+
+See [here](https://beta.docs.qmk.fm/developing-qmk/qmk-reference/getting_started_make_guide)
+
+Run msys
+
+make ergotravel:default:avrdude
+
+reset board when prompted.
